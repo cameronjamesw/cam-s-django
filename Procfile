@@ -1,0 +1,1 @@
+web: gunicorn cams_resume.wsgi
